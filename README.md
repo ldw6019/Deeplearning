@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Deep%20Learning&fontSize=90&animation=fadeIn&fontAlignY=38" alt="header" />
+</p>
+
 ## 🛠 Setup & Installation
 이 프로젝트는 `Python 3.12` 환경에서 테스트되었습니다.
-1. 저장소 클론: `git clone https://github.com/아이디/리포이름.git`
-2. 필수 라이브러리 설치:
+
+1. 필수 라이브러리 설치:
    ```bash
    pip install torch numpy matplotlib scikit-learn
+
 ## 🗺️ Curriculum Dashboard
 
 ### [Phase 1] Deep Learning Foundations (Week 1-3) 🔗 [Detailed Review](./part1/README1.md)
