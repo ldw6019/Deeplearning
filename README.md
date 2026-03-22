@@ -11,7 +11,7 @@
 
 ## 🗺️ Curriculum Dashboard
 
-### [Phase 1] Deep Learning Foundations (Week 1-3) 🔗 [Detailed Review](./part1/README1.md)
+### [Phase 1] Deep Learning Foundations (Week 1-3) 🔗 [Detailed Review](./part1/README1.md) / [Summary](./part1/etc/week3_mynote.ipynb)
 > NumPy로 밑바닥부터 구현하며 딥러닝의 수학적 기초를 다지고, PyTorch로 전환하는 단계입니다.
 
 * **Week 1:** NumPy Matrix 연산 및 선형 회귀(Linear Regression) 구현
